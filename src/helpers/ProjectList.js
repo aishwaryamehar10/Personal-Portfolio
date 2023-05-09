@@ -1,7 +1,7 @@
-import OpenAI from '../assets/openai5002.jpg';
-import Mern from '../assets/Mern.jpeg';
+import OpenAI from '../assets/image-260nw-2250450765.webp';
+import Mern from '../assets/Mern-Sack.webp';
 import React from '../assets/React.png';
-import QR from '../assets/QR.jpg';
+import QR from '../assets/qr-code-scanning-colorful-outline-260nw-762131656.webp';
 import Sass from '../assets/Sass.png';
 import Animation from '../assets/Animation.png';
 
